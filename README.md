@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Prajwal Ladkat here!</h1>
-<h3 align="center">A passionate developer from <span>India</span></h3>
+<h3 align="center">A passionate developer from <span style="fontColor:"orange">India</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalladkat080501&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalladkat080501" /> </p>
 
