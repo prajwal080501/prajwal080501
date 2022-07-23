@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **DSA, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://prajwalladkat.tech](https://prajwalladkat.tech)
 
-- 💬 Ask me about **react, java, DSA**
+- 💬 Ask me about **React, Java, DSA, Frontend**
 
-- 📫 How to reach me **mail@prajwalladkat.tech**
+- 📫 How to reach me **iamprajwalladkat@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
