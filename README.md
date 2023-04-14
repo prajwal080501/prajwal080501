@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://prajwalladkat.tech](https://prajwalladkat.tech)
+- 👨‍💻 All of my projects are available at [https://prajwalladkat.vercel.app](https://prajwalladkat.vercel.app)
 
-- 💬 Ask me about **React, Java, DSA, Frontend**
+- 💬 Ask me about **React, Java, DSA, Frontend, Linux**
 
 - 📫 How to reach me **iamprajwalladkat@gmail.com**
 
