@@ -25,8 +25,6 @@ Check out my portfolio at [prajwalladkat.vercel.app](https://prajwalladkat.verce
 - Linux
 - Networking
 - Cloud Computing
-- Tech
-
 - Fun tech facts!
 
 ### 📫 How to Reach Me:
