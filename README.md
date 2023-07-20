@@ -15,12 +15,13 @@
 ### 🌱 Currently Learning:
 - Data Structures and Algorithms (DSA)
 - MERN Stack
+- Cloud Computing
 
 ### 💼 Portfolio:
 Check out my portfolio at [prajwalladkat.vercel.app](https://prajwalladkat.vercel.app) to see my projects!
 
 ### 💬 Ask Me About:
-- React, Java, DSA, Frontend, Linux
+- React, Java, DSA, Frontend, Linux, Backend
 - Fun tech facts!
 
 ### 📫 How to Reach Me:
