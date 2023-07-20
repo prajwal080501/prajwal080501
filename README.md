@@ -21,7 +21,12 @@
 Check out my portfolio at [prajwalladkat.vercel.app](https://prajwalladkat.vercel.app) to see my projects!
 
 ### 💬 Ask Me About:
-- React, Java, DSA, Frontend, Linux, Backend
+- MERN Stack
+- Linux
+- Networking
+- Cloud Computing
+- Tech
+
 - Fun tech facts!
 
 ### 📫 How to Reach Me:
