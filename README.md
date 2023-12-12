@@ -85,6 +85,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/prajwal080501/prajwal080501/output/snake.svg" alt="Snake animation" />
 
 ###
